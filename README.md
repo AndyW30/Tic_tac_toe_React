@@ -1,8 +1,25 @@
-# React + Vite
+# FRONTEND OF TIC TAC TOE
+Tic-tac-toe, also known as noughts and crosses, is a classic two-player game where opponents take turns marking a 3x3 grid with their respective symbols, usually "X" and "O," with the objective of forming a line of three of their symbols either horizontally, vertically, or diagonally to win. It's a simple yet engaging game that has entertained players of all ages for generations.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 💻 BUILD WITH
+- React + Vite
 
-Currently, two official plugins are available:
+## 💻 DEVELOPMENT
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 👉 PREREQUISITIES
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en/download/)
+- [npm](https://www.npmjs.com/)
+
+### 👉 FIRST LAUNCH 🚀
+
+1. type `npm` to install dependencies
+2. create local `.env` file and fill it with correct envinronment variables
+3. type `npm run dev` to open [http://localhost:3000](http://localhost:3000) and view project in the browser
+
+### 👉 STATIC CODE ANALYSIS TOOLS
+
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+
